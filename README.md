@@ -1,5 +1,7 @@
 # 📘 Vehicle Rental System - Database Design & SQL Queries
 
+**ERD Link:** [👉 https://drawsql.app/teams/rts-7/diagrams/vehicle-rental-system]
+
 ## 🧩 Project Explanation
 This project is based on a **Vehicle Rental System**, which manages information about **Users**, **Vehicles**, and **Bookings**.  
 It demonstrates how to design a relational database using **Primary Keys (PK)**, **Foreign Keys (FK)**, and proper relationships:
