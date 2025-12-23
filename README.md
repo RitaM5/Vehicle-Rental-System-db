@@ -67,9 +67,9 @@ Each booking connects **exactly one user** and **exactly one vehicle**.
 
 ## 💻 SQL Queries with Solutions
 
-### 1️⃣ INNER JOIN  
+1️⃣ INNER JOIN  
+
 Retrieve booking information with customer and vehicle names.
-```sql
 
 SELECT
   bookings.booking_id,
